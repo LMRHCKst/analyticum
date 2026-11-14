@@ -1,0 +1,16 @@
+# build artifacts
+/out/
+*.pcu
+*.exe
+*.pdb
+*.dll
+*.runtimeconfig.json
+*.log
+
+# compiler (40 MB, not source)
+/tools/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
